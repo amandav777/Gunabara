@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(0,104,192);
+    font-family: 'Roboto', sans-serif;
+}
+
+
+#spot{
+text-align: center;
+border-color: aliceblue;
+border-width: 2px;
+} 
+
+#container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+#square{
+border: 1px solid #cccccc;
+background: #fff;
+display: inline;
+float: left;
+width: auto;
+padding: 10px 10px 15px;
+text-align: center;
+text-decoration: none;
+color: #333;
+font-size: 18px;
+-webkit-box-shadow: 0 3px 6px rgba(0,0,0,.25);
+-moz-box-shadow: 0 3px 6px rgba(0,0,0,.25);
+align-items: center;
+
+}
+
+#spotifai{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+
+}
+
+#foto{display: block; width: 400px; margin-bottom: 12px;}
